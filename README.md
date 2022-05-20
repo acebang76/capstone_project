@@ -8,3 +8,4 @@
 1. WaferMap불량검출-설명
 2. WaferMap불량검출-데이터증량
 3. WaferMap불량검출-학습
+4. WaferMap불량검출-발표
