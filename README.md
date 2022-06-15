@@ -10,3 +10,7 @@
 3. WaferMap불량검출-학습
 4. WaferMap불량검출-발표
 5. YOLO를 이용한 안전모 검출-주석,라벨링,파일변환 정리 발표
+6. YOLO안전모검출-detect 결과 파일
+7. YOLO안전모검출-train 결과 파일
+8. YOLO안전모검출-validation 결과 파일
+9. YOLO안전모검출-발표
